@@ -1,6 +1,6 @@
 # Random Number Generator
 
-The Android application built with React Native.
+This is an Android application built with React Native.
 
 ### About
 
